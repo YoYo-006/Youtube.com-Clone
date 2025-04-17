@@ -10,7 +10,7 @@
 }
 
 .sidebar-link{
-  height: 76px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,12 +23,12 @@
 }
 
 .sidebar-link img{
-  height: 24px;
+  height: 30px;
     margin-bottom: 10px;
 }
 
 .sidebar-link div{
   font-family: Roboto, Arial;
-  font-size: 10px;
+  font-size: 15px;
 
 }
